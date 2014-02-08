@@ -1,4 +1,4 @@
-Django app for generating and maintaining a list of links that can be rewritten by the server.
+Django app for generating and maintaining a list of links that can be rewritten by the server. This is probably not the best way to do it. :-)
 
 Eg. 
     
